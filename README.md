@@ -155,5 +155,5 @@ This project is licensed under the MIT License — feel free to use and modify i
 
 ## 👤 Author
 
-Built by **Your Name**
-[GitHub](https://github.com) · [LinkedIn](https://linkedin.com)
+Built by **Ellora Tanwar**
+
